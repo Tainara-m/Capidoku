@@ -1,4 +1,4 @@
-# 🍊 Capidoku
+# Capidoku
 
 Um puzzle de lógica fofinho, com capivaras, para jogar no navegador. É uma homenagem independente ao **Meowdoku** (Oakever Games): em vez de gatos, você posiciona capivaras numa grade colorida usando só dedução.
 
@@ -94,7 +94,7 @@ Tudo está em `index.html`, com CSS e JS no mesmo arquivo.
 ## Créditos e licença
 
 - **Ideia original:** Meowdoku, da Oakever Games (este projeto não tem relação com a empresa).
-- **Código:** escrito com a ajuda do Claude (Anthropic) e dirigido por **SEU NOME**.
-- **Imagens (capivara e ícone):** <!-- informe aqui a origem e a licença das imagens que você usou -->
+- **Código:** escrito com a ajuda do Claude (Anthropic) e dirigido por **Tainara Martins**.
+- **Imagens (capivara e ícone):** Imagem gerada com Inteligência Artificial <!-- informe aqui a origem e a licença das imagens que você usou -->
 - **Fonte:** [Fredoka](https://fonts.google.com/specimen/Fredoka), licença OFL, carregada do Google Fonts.
-- **Licença do código:** <!-- ex.: MIT. Adicione um arquivo LICENSE e deixe claro que as imagens têm licença à parte -->
+- **Licença do código:** MIT <!-- ex.: MIT. Adicione um arquivo LICENSE e deixe claro que as imagens têm licença à parte -->
